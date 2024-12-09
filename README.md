@@ -19,12 +19,6 @@ Keypoint Detection
 Panoptic Segmentation
 Image Captioning
 
-### Dataset Splits
-
-Train: 118K images
-Validation: 5K images
-Test: 41K images
-
 ### Data Format
 
 Annotations in JSON format
